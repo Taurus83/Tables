@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-table",
+  "version": "1.0.0",
+  "description": "tables",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/Tables.git"
+  },
+  "keywords": [
+    "tables"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/Tables/issues"
+  },
+  "homepage": "https://github.com/Taurus83/Tables#readme"
+}
