@@ -9,8 +9,8 @@ var newName = 'Marian';
 if (allNames.indexOf(newName) === -1) {
 	alert('Wynik zgodny');
 	console.log('Wynik zgodny');
-		allNames.push(newName);
-		console.log(allNames);
+	allNames.push(newName);
+	console.log(allNames);
 } else {
 	alert('Wynik błędny');
 	console.log('Wynik błędny');
